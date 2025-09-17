@@ -1,5 +1,4 @@
 ﻿using Corenexus.Core.Bases.Dtos;
-using Posexpress.Core.Bases;
 using Posexpress.Core.Modules.ERP.ErpProducts.Dtos.Commands;
 using Posexpress.Core.Modules.ERP.ErpProducts.Entities;
 

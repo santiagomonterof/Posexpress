@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Modules\ERP\Barcodes\Dtos\Queries\" />
+    <Folder Include="Modules\ERP\Barcodes\Validators\" />
+    <Folder Include="Modules\ERP\ErpProducts\Dtos\Queries\" />
+    <Folder Include="Modules\ERP\ErpProducts\Dtos\Results\" />
+    <Folder Include="Modules\ERP\ErpProducts\Validators\" />
+    <Folder Include="Modules\Express\ProductCategories\Dtos\Queries\" />
+    <Folder Include="Modules\Express\ProductCategories\Dtos\Results\" />
+    <Folder Include="Modules\Express\ProductCategories\Validators\" />
+    <Folder Include="Modules\Express\Categories\Dtos\Commands\" />
+    <Folder Include="Modules\Express\Categories\Dtos\Queries\" />
+    <Folder Include="Modules\Express\Categories\Dtos\Results\" />
+    <Folder Include="Modules\Express\Categories\Interfaces\" />
+    <Folder Include="Modules\Express\Categories\Validators\" />
+    <Folder Include="Modules\Express\ExpProducts\Dtos\Commands\" />
+    <Folder Include="Modules\Express\ExpProducts\Dtos\Queries\" />
+    <Folder Include="Modules\Express\ExpProducts\Dtos\Results\" />
+    <Folder Include="Modules\Express\ExpProducts\Interfaces\" />
+    <Folder Include="Modules\Express\ExpProducts\Validators\" />
+    <Folder Include="Modules\Express\ExpSales\Dtos\Queries\" />
+    <Folder Include="Modules\Express\ExpSales\Validators\" />
+    <Folder Include="Modules\Express\ProductTypes\Dtos\Commands\" />
+    <Folder Include="Modules\Express\ProductTypes\Dtos\Queries\" />
+    <Folder Include="Modules\Express\ProductTypes\Dtos\Results\" />
+    <Folder Include="Modules\Express\ProductTypes\Interfaces\" />
+    <Folder Include="Modules\Express\ProductTypes\Validators\" />
+  </ItemGroup>
+
+</Project>
